@@ -8,3 +8,4 @@ router.post("/token", protectRound, getZegoToken);
 
 export default router;
 
+
